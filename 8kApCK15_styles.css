@@ -1,0 +1,16 @@
+body{ font-family:'Times New Roman'; font-size:1em; }
+ul, ol{ margin-top: 0; margin-bottom: 0; }
+.Normal{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;font-family:Arial;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+h1{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:3.85pt;margin-bottom:0pt;font-family:Arial;font-size:16pt;text-transform:none;font-weight:bold;font-style:normal;font-variant:normal;}
+.Heading-1{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:3.85pt;margin-bottom:0pt;font-family:Arial;font-size:16pt;text-transform:none;font-weight:bold;font-style:normal;font-variant:normal;}
+h2{text-align:center;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;margin-left:20.3pt;margin-right:20.95pt;font-family:Arial;font-size:14pt;text-transform:none;font-weight:bold;font-style:normal;font-variant:normal;}
+.Heading-2{text-align:center;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;margin-left:20.3pt;margin-right:20.95pt;font-family:Arial;font-size:14pt;text-transform:none;font-weight:bold;font-style:normal;font-variant:normal;}
+h3{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;margin-left:76.05pt;font-family:Arial;font-size:12pt;text-transform:none;font-weight:bold;font-style:normal;font-variant:normal;}
+.Heading-3{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;margin-left:76.05pt;font-family:Arial;font-size:12pt;text-transform:none;font-weight:bold;font-style:normal;font-variant:normal;}
+.Default-Paragraph-Font{font-family:Calibri;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+.Normal-Table{}
+.No-List{}
+.Table-Normal{}
+.Body-Text{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;font-family:Arial;font-size:12pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+.List-Paragraph{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;margin-left:75.95pt;text-indent:-14.15pt;margin-right:5.7pt;font-family:Arial;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+.Table-Paragraph{text-align:center;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;margin-top:0pt;margin-bottom:0pt;margin-left:5.5pt;font-family:Arial;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
